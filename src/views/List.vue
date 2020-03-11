@@ -6,6 +6,7 @@
     <router-link to="/">
       <van-button type="primary">to home</van-button>
     </router-link>
+    <p>test world</p>
   </div>
 </template>
 <script>
